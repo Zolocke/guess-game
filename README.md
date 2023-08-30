@@ -1,2 +1,2 @@
 # guess-game
- game taught by ai
+ game taught to me by ai
